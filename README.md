@@ -2,6 +2,6 @@
 
 **`Data Professional`**
 
-## Languages and Tools
+## 🧰 Languages and Tools
 
-## Tri's Coding Journey
+## 🥾 Tri's Coding Journey
