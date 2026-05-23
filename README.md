@@ -1,6 +1,6 @@
 # Tri 
 
-I'm a Data Professional...
+I'm a data professional currently working in the constuction....of this Github Repo 😅
 
 <p align="left">
      <a href="https://github.com/TheDataGeek?tab=followers">
