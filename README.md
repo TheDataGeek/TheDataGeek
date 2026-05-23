@@ -1,4 +1,4 @@
-# 🥷🏼 Tri Le 
+# 🥷🏼 Tri L.
 
 **`Data Professional`**
 
