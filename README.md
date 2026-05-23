@@ -1,6 +1,6 @@
 # 🥷🏼 Tri Le 
 
-**`Data Profession`**
+**`Data Professional`**
 
 ## Languages and Tools
 
