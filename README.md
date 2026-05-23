@@ -1,6 +1,6 @@
 # Tri 
 
-I'm a data professional currently working in constuction 👷🏻‍♂️ ....... the construction of this sad and empty Github Repo 😅
+I'm a data professional currently working in construction 👷🏻‍♂️ ....... the construction of this sad and empty Github Repo 😅
 
 <p align="left">
      <a href="https://github.com/TheDataGeek?tab=followers">
