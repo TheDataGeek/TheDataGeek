@@ -1,9 +1,7 @@
-# 🥷 Tri Le 
+# 🥷🏼 Tri Le 
 
-** Data Professional **
+**`Data Profession`**
 
 ## Languages and Tools
-
-
 
 ## Tri's Coding Journey
