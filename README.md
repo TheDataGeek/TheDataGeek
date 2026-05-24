@@ -1,7 +1,32 @@
 # Tri 
 
-I'm a data professional currently working in construction 👷🏻‍♂️ ....... the construction of this sad and empty Github Repo 😅
+### 🛠 Tech Stack
 
+**Languages & Querying**
+[![](https://skillicons.dev/icons?i=py,r,postgres,mysql,mongodb,bash)](https://skillicons.dev)
+
+**ML & Data Science**
+[![](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)](https://skillicons.dev)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+
+**Visualization & Reporting**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=python&logoColor=white)
+
+**Tools & Infrastructure**
+[![](https://skillicons.dev/icons?i=docker,git,github,vscode,jupyter,anaconda,linux)](https://skillicons.dev)
+
+### 📖 Studying
+
+[![](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+
+<!--
 <p align="left">
      <a href="https://github.com/TheDataGeek?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheDataGeek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -14,7 +39,6 @@ I'm a data professional currently working in construction 👷🏻‍♂️ ....
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=TheDataGeek&theme=darcula&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=TheDataGeek&theme=darcula&hide_border=true)<br/>
