@@ -52,6 +52,10 @@ decisions. Now I answer those questions with analytics and machine learning.
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
+## ✉️ Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trihle)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/thedatageek)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tri.h.le@outlook.com)
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=TheDataGeek&theme=darcula&hide_border=true&include_all_commits=false&count_private=true)<br/>
