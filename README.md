@@ -1,4 +1,10 @@
-# Tri 
+# Hi, I'm Tri 👋
+
+Data professional. Media and finance taught me how data drives
+decisions. Now I answer those questions with analytics and machine learning.
+
+---
+<!--
 
 <p align="left">
      <a href="https://github.com/TheDataGeek?tab=followers">
@@ -6,8 +12,7 @@
       <a href="https://github.com/TheDataGeek?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TheDataGeek?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
----
+-->
 
 ## 🧰 Tech Stack
 
@@ -48,10 +53,8 @@
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 <!--
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=TheDataGeek&theme=darcula&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=TheDataGeek&theme=darcula&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheDataGeek&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 -->
