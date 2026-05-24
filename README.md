@@ -1,7 +1,7 @@
 # Hi, I'm Tri 👋
 
 Former media and finance guy who realized the models were the interesting part.
-Now I build them — analytics, machine learning, and cloud infrastructure and data pipelines.
+Now I build them with analytics, machine learning, cloud infrastructure and data pipelines.
 I bridge the gap between the data and the decision.
 
 📍 San Francisco + Sacramento, CA | ☁️ Head in the cloud.
