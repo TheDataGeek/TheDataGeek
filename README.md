@@ -1,9 +1,10 @@
 # Hi, I'm Tri 👋
 
-I'm a data professional. Media and finance taught me how data drives
-decisions. Now I answer those questions with analytics and machine
-learning. Actively expanding into cloud data platforms and pipeline tooling.
+Former media and finance guy who realized the models were the interesting part.
+Now I build them — analytics, machine learning, and an expanding toolkit
+of cloud data platforms and pipeline tooling.
 
+I bridge the gap between the data and the decision.
 
 
 ---
