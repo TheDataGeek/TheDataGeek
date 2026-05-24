@@ -1,10 +1,14 @@
 # Hi, I'm Tri 👋
 
 Former media and finance guy who realized the models were the interesting part.
-Now I build them — analytics, machine learning, and an expanding toolkit
-of cloud data platforms and pipeline tooling.
+Now I build them using analytics, machine learning, and cloud data infrastructure
+and data pipelines.
 
+Former media and finance guy who realized the models were the interesting part.
+Now I build them — analytics, machine learning, and cloud infrastructure and data pipelines.
 I bridge the gap between the data and the decision.
+
+📍 San Francisco + Sacramento, CA | ☁️ Head in the cloud.
 
 
 ---
