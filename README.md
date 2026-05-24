@@ -6,6 +6,7 @@ I bridge the gap between the data and the decision.
 
 📍 San Francisco + Sacramento, CA | ☁️ Head in the cloud.
 
+↓ Projects below tell the rest of the story.
 
 ---
 <!--
